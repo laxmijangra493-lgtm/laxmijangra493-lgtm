@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Bhavesh Kumar</h1>
 <h3 align="center">A passionate AI / ML Engineer from Rewari (currently in Jaipur), India 🇮🇳</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=laxmijangra493-lgtm&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="laxmijangra493-lgtm"> 
+<p align="center">  
+  <img src="https://komarev.com/ghpvc/?username=laxmijangra493-lgtm&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="laxmijangra493-lgtm">  
 </p>
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="AI Developer GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Zic3VvOWp3N2Z4YmN0OHg1bXEyeDVocmswOHI0anhndm10OGNoNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
-</a>
+<p align="left">
+  <img align="right" height="260" width="360" alt="AI Developer GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Zic3VvOWp3N2Z4YmN0OHg1bXEyeDVocmswOHI0anhndm10OGNoNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" style="margin-left: 15px; margin-bottom: 15px;">
+</p>
 
 <ul>
   <li>🔭 I’m currently building and showcasing my projects in <strong>Artificial Intelligence & Machine Learning</strong></li>
@@ -15,73 +15,73 @@
   <li>💬 Ask me about <strong>Python, JavaScript, and Data Science basics</strong></li>
 </ul>
 
-<br>
+<br><br>
 
 <h3 align="left">Connect with me 🤝</h3>
-<div align="left">
-  <!-- Gmail Icon -->
-  <a href="mailto:laxmijangra493@gmail.com" target="_blank" style="margin-right: 15px; cursor: pointer;">
+<div align="left" style="margin-top: 10px; margin-bottom: 20px;">
+  <a href="mailto:laxmijangra493@gmail.com" target="_blank" style="margin-right: 15px; text-decoration: none;">
     <img src="https://img.icons8.com/doodle/48/000000/google-logo.png" alt="Gmail" width="40" height="40">
   </a>
   
-  <!-- Instagram Icon -->
-  <a href="https://instagram.com/code_with.bhavesh" target="_blank" style="margin-right: 15px; cursor: pointer;">
+  <a href="https://instagram.com/code_with.bhavesh" target="_blank" style="margin-right: 15px; text-decoration: none;">
     <img src="https://img.icons8.com/doodle/48/000000/instagram-new--v2.png" alt="Instagram" width="40" height="40">
   </a>
   
-  <!-- WhatsApp Icon -->
-  <a href="https://wa.me/917082469099" target="_blank" style="margin-right: 15px; cursor: pointer;">
+  <a href="https://wa.me/917082469099" target="_blank" style="margin-right: 15px; text-decoration: none;">
     <img src="https://img.icons8.com/doodle/48/000000/whatsapp.png" alt="WhatsApp" width="40" height="40">
   </a>
 
-  <!-- GitHub Profile Icon -->
-  <a href="https://github.com/laxmijangra493-lgtm" target="_blank" style="cursor: pointer;">
+  <a href="https://github.com/laxmijangra493-lgtm" target="_blank" style="text-decoration: none;">
     <img src="https://img.icons8.com/doodle/48/000000/github--v1.png" alt="GitHub" width="40" height="40">
   </a>
 </div>
 
+<br>
 <hr>
-
-
+<br>
 
 <h3 align="left">Languages & Tools 🛠️</h3>
 
-<p align="left"><strong>Programming Languages:</strong></p>
+<p align="left" style="margin-top: 15px; margin-bottom: 5px;"><strong>Programming Languages:</strong></p>
 <p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="margin-right: 10px;">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="margin-right: 15px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
   </a>
   
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="margin-right: 10px;">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="margin-right: 15px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
   </a>
 </p>
 
-<p align="left"><strong>Databases (SQL & Vector):</strong></p>
+<p align="left" style="margin-top: 20px; margin-bottom: 5px;"><strong>Databases (SQL & Vector):</strong></p>
 <p align="left">
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="margin-right: 15px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
   </a>
 
   <a href="https://www.pinecone.io/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Vector__DB-Pinecone-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJMMiA3bDEwIDUgMTAtNS0xMC01ek0yIDE3bDEwIDUgMTAtNVY3bC0xMCA1TDIgN3YxMHoiLz48L3N2Zz4=" alt="vector-db" height="40"/>
+    <img src="https://img.shields.io/badge/Vector__DB-Pinecone-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJMMiA3bDEwIDUgMTAtNS0xMC01ek0yIDE3bDEwIDUgMTAtNVY3bC0xMCA1TDIgN3YxMHoiLz48L3N2Zz4=" alt="vector-db" height="38"/>
   </a>
 </p>
 
+<br>
+<hr>
+<br>
 
 <h3 align="left">GitHub Stats & Trophies 📊</h3>
-<p align="center">
+<p align="center" style="margin-top: 20px;">
   <a href="https://github.com/laxmijangra493-lgtm">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=laxmijangra493-lgtm&theme=dark&hide_border=true" alt="laxmijangra493-lgtm's GitHub Streak" height="180" style="margin-right: 10px;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=laxmijangra493-lgtm&theme=dark&hide_border=true" alt="laxmijangra493-lgtm's GitHub Streak" height="165" style="margin-right: 10px; margin-bottom: 10px;" />
   </a>
 
   <a href="https://github.com/laxmijangra493-lgtm">
-    <img src="https://github-readme-stats.allthethings.ch/api?username=laxmijangra493-lgtm&show_icons=true&theme=dark&hide_border=true" alt="laxmijangra493-lgtm's GitHub Stats" height="180" style="margin-right: 10px;" />
+    <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=laxmijangra493-lgtm&show_icons=true&theme=dark&hide_border=true" alt="laxmijangra493-lgtm's GitHub Stats" height="165" style="margin-right: 10px; margin-bottom: 10px;" />
   </a>
 
   <a href="https://github.com/laxmijangra493-lgtm">
-    <img src="https://github-readme-stats.allthethings.ch/api/top-langs/?username=laxmijangra493-lgtm&layout=compact&theme=dark&hide_border=true" alt="laxmijangra493-lgtm's Top Languages" height="180" />
+    <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api/top-langs/?username=laxmijangra493-lgtm&layout=compact&theme=dark&hide_border=true" alt="laxmijangra493-lgtm's Top Languages" height="165" style="margin-bottom: 10px;" />
   </a>
 </p>
 
+<br>
 <hr>
