@@ -18,16 +18,22 @@
 <br>
 
 <h3 align="left">Connect with me 🤝</h3>
-<p align="left">
-  <a href="mailto:your.email@gmail.com" target="_blank" style="margin-right: 15px;">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+<div align="left">
+  <a href="mailto:laxmijangra493@@gmail.com" target="_blank" style="margin-right: 15px; cursor: pointer;">
+    <img src="https://img.icons8.com/doodle/48/000000/google-logo.png" alt="Gmail" width="40" height="40">
   </a>
-  <a href="https://instagram.com/your_username" target="_blank" style="margin-right: 15px;">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  
+  <a href="https://instagram.com/bhaveshkumar_56" target="_blank" style="margin-right: 15px; cursor: pointer;">
+    <img src="https://img.icons8.com/doodle/48/000000/instagram-new--v2.png" alt="Instagram" width="40" height="40">
   </a>
-  <a href="https://github.com/laxmijangra493-lgtm" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0078D4?style=for-the-badge&logo=microsoft-academic&logoColor=white" alt="Contact" />
+  
+  <a href="tel:+917082469099" target="_blank" style="margin-right: 15px; cursor: pointer;">
+    <img src="https://img.icons8.com/doodle/48/000000/phone---v1.png" alt="Phone" width="40" height="40">
   </a>
-</p>
+
+  <a href="https://github.com/laxmijangra493-lgtm" target="_blank" style="cursor: pointer;">
+    <img src="https://img.icons8.com/doodle/48/000000/github--v1.png" alt="GitHub" width="40" height="40">
+  </a>
+</div>
 
 <hr>
