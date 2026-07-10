@@ -19,15 +19,15 @@
 
 <h3 align="left">Connect with me 🤝</h3>
 <div align="left">
-  <a href="mailto:your.email@gmail.com" target="_blank" style="margin-right: 15px; cursor: pointer;">
+  <a href="mailto:laxmijangra493@gmail.com" target="_blank" style="margin-right: 15px; cursor: pointer;">
     <img src="https://img.icons8.com/doodle/48/000000/google-logo.png" alt="Gmail" width="40" height="40">
   </a>
   
-  <a href="https://instagram.com/your_username" target="_blank" style="margin-right: 15px; cursor: pointer;">
+  <a href="https://instagram.com/code_with.bhavesh" target="_blank" style="margin-right: 15px; cursor: pointer;">
     <img src="https://img.icons8.com/doodle/48/000000/instagram-new--v2.png" alt="Instagram" width="40" height="40">
   </a>
   
-  <a href="tel:+91XXXXXXXXXX" target="_blank" style="margin-right: 15px; cursor: pointer;">
+  <a href="tel:+917082469099" target="_blank" style="margin-right: 15px; cursor: pointer;">
     <img src="https://img.icons8.com/doodle/48/000000/phone-office.png" alt="Phone" width="40" height="40">
   </a>
 
