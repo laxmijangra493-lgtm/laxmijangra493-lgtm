@@ -19,19 +19,25 @@
 
 <h3 align="left">Connect with me 🤝</h3>
 <div align="left">
-  <a href="mailto:laxmijangra493@gmail.com" target="_blank" style="margin-right: 15px; cursor: pointer;">
+  <!-- Gmail Icon -->
+  <a href="mailto:your.email@gmail.com" target="_blank" style="margin-right: 15px; cursor: pointer;">
     <img src="https://img.icons8.com/doodle/48/000000/google-logo.png" alt="Gmail" width="40" height="40">
   </a>
   
-  <a href="https://instagram.com/code_with.bhavesh" target="_blank" style="margin-right: 15px; cursor: pointer;">
+  <!-- Instagram Icon -->
+  <a href="https://instagram.com/your_username" target="_blank" style="margin-right: 15px; cursor: pointer;">
     <img src="https://img.icons8.com/doodle/48/000000/instagram-new--v2.png" alt="Instagram" width="40" height="40">
   </a>
   
+  <!-- WhatsApp Icon -->
+  <a href="https://wa.me/91XXXXXXXXXX" target="_blank" style="margin-right: 15px; cursor: pointer;">
+    <img src="https://img.icons8.com/doodle/48/000000/whatsapp.png" alt="WhatsApp" width="40" height="40">
+  </a>
 
+  <!-- GitHub Profile Icon -->
   <a href="https://github.com/laxmijangra493-lgtm" target="_blank" style="cursor: pointer;">
     <img src="https://img.icons8.com/doodle/48/000000/github--v1.png" alt="GitHub" width="40" height="40">
   </a>
 </div>
 
 <hr>
-**Contact:** +91 7082469099
