@@ -36,8 +36,7 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=laxmijangra493-lgtm&amp;theme=dark&amp;hide_border=true" alt="laxmijangra493-lgtm's GitHub Streak" height="165" style="margin: 8px 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=laxmijangra493-lgtm&amp;show_icons=true&amp;theme=dark&amp;hide_border=true" alt="laxmijangra493-lgtm's GitHub Stats" height="165" style="margin: 8px 10px;" />
-</p>
+
 
 
 <p align="center">
