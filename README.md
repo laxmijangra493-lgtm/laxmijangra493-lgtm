@@ -8,3 +8,12 @@
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="AI Developer GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Zic3VvOWp3N2Z4YmN0OHg1bXEyeDVocmswOHI0anhndm10OGNoNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 </a>
+
+<ul>
+  <li>🔭 I’m currently building and showcasing my projects in <strong>Artificial Intelligence & Machine Learning</strong></li>
+  <li>🌱 I’m currently learning and mastering <strong>Complete AI Engineering</strong></li>
+  <li>💬 Ask me about <strong>Python, JavaScript, and Data Science basics</strong></li>
+  <li>📫 How to reach me: <strong>Your Email Here</strong></li>
+</ul>
+
+<hr>
