@@ -27,9 +27,6 @@
     <img src="https://img.icons8.com/doodle/48/000000/instagram-new--v2.png" alt="Instagram" width="40" height="40">
   </a>
   
-  <a href="tel:+917082469099" target="_blank" style="margin-right: 15px; cursor: pointer;">
-    <img src="https://img.icons8.com/doodle/48/000000/phone-office.png" alt="Phone" width="40" height="40">
-  </a>
 
   <a href="https://github.com/laxmijangra493-lgtm" target="_blank" style="cursor: pointer;">
     <img src="https://img.icons8.com/doodle/48/000000/github--v1.png" alt="GitHub" width="40" height="40">
@@ -37,3 +34,4 @@
 </div>
 
 <hr>
+**Contact:** +91 7082469099
