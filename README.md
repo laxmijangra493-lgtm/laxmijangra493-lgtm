@@ -63,9 +63,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
   </a>
 
-  <a href="https://www.pinecone.io/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-    <img src="https://cdn.worldvectorlogo.com/logos/pinecone.svg" alt="vector-database" width="45" height="45"/>
+  <a href="https://www.pinecone.io/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Vector__DB-Pinecone-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJMMiA3bDEwIDUgMTAtNS0xMC01ek0yIDE3bDEwIDUgMTAtNVY3bC0xMCA1TDIgN3YxMHoiLz48L3N2Zz4=" alt="vector-db" height="40"/>
   </a>
 </p>
-
-<hr>
