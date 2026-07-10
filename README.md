@@ -67,3 +67,21 @@
     <img src="https://img.shields.io/badge/Vector__DB-Pinecone-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJMMiA3bDEwIDUgMTAtNS0xMC01ek0yIDE3bDEwIDUgMTAtNVY3bC0xMCA1TDIgN3YxMHoiLz48L3N2Zz4=" alt="vector-db" height="40"/>
   </a>
 </p>
+
+
+<h3 align="left">GitHub Stats & Trophies 📊</h3>
+<p align="center">
+  <a href="https://github.com/laxmijangra493-lgtm">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=laxmijangra493-lgtm&theme=dark&hide_border=true" alt="laxmijangra493-lgtm's GitHub Streak" height="180" style="margin-right: 10px;" />
+  </a>
+
+  <a href="https://github.com/laxmijangra493-lgtm">
+    <img src="https://github-readme-stats.vercel.app/api?username=laxmijangra493-lgtm&show_icons=true&theme=dark&hide_border=true" alt="laxmijangra493-lgtm's GitHub Stats" height="180" style="margin-right: 10px;" />
+  </a>
+
+  <a href="https://github.com/laxmijangra493-lgtm">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmijangra493-lgtm&layout=compact&theme=dark&hide_border=true" alt="laxmijangra493-lgtm's Top Languages" height="180" />
+  </a>
+</p>
+
+<hr>
