@@ -31,7 +31,7 @@
 
 <br>
 
-### 📊 GitHub Stats & Trophies
+### 📊 GitHub Stats 
 <hr>
 
 <p align="center">
@@ -39,13 +39,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=laxmijangra493-lgtm&amp;show_icons=true&amp;theme=dark&amp;hide_border=true" alt="laxmijangra493-lgtm's GitHub Stats" height="165" style="margin: 8px 10px;" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmijangra493-lgtm&amp;layout=compact&amp;theme=dark&amp;hide_border=true" alt="laxmijangra493-lgtm's Top Languages" height="165" style="margin: 8px 10px;" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=laxmijangra493-lgtm&amp;theme=darkhub&amp;no-frame=true&amp;row=1&amp;column=6" alt="laxmijangra493-lgtm's GitHub Trophies" style="margin: 8px 10px;" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=laxmijangra493-lgtm&amp;bg_color=0D1117&amp;color=58A6FF&amp;line=58A6FF&amp;point=FFFFFF&amp;hide_border=true" alt="Activity Graph" width="100%" />
