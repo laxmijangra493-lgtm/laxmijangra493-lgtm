@@ -13,7 +13,21 @@
   <li>🔭 I’m currently building and showcasing my projects in <strong>Artificial Intelligence & Machine Learning</strong></li>
   <li>🌱 I’m currently learning and mastering <strong>Complete AI Engineering</strong></li>
   <li>💬 Ask me about <strong>Python, JavaScript, and Data Science basics</strong></li>
-  <li>📫 How to reach me: <strong>Your Email Here</strong></li>
 </ul>
+
+<br>
+
+<h3 align="left">Connect with me 🤝</h3>
+<p align="left">
+  <a href="mailto:your.email@gmail.com" target="_blank" style="margin-right: 15px;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://instagram.com/your_username" target="_blank" style="margin-right: 15px;">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://github.com/laxmijangra493-lgtm" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0078D4?style=for-the-badge&logo=microsoft-academic&logoColor=white" alt="Contact" />
+  </a>
+</p>
 
 <hr>
