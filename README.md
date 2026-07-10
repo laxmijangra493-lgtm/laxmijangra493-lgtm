@@ -43,6 +43,7 @@
 <hr>
 
 
+
 <h3 align="left">Languages & Tools 🛠️</h3>
 
 <p align="left"><strong>Programming Languages:</strong></p>
@@ -63,7 +64,7 @@
   </a>
 
   <a href="https://www.pinecone.io/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pinecone/pinecone-original.svg" alt="pinecone" width="45" height="45"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/pinecone.svg" alt="vector-database" width="45" height="45"/>
   </a>
 </p>
 
