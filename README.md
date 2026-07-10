@@ -76,23 +76,6 @@
   </a>
 
   <a href="https://github.com/laxmijangra493-lgtm">
-    <img src="https://github-readme-stats.vercel.app/api?username=laxmijangra493-lgtm&show_icons=true&theme=dark&hide_border=true" alt="laxmijangra493-lgtm's GitHub Stats" height="180" style="margin-right: 10px;" />
-  </a>
-
-  <a href="https://github.com/laxmijangra493-lgtm">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmijangra493-lgtm&layout=compact&theme=dark&hide_border=true" alt="laxmijangra493-lgtm's Top Languages" height="180" />
-  </a>
-</p>
-
-<hr>
-
-<h3 align="left">GitHub Stats & Trophies 📊</h3>
-<p align="center">
-  <a href="https://github.com/laxmijangra493-lgtm">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=laxmijangra493-lgtm&theme=dark&hide_border=true" alt="laxmijangra493-lgtm's GitHub Streak" height="180" style="margin-right: 10px;" />
-  </a>
-
-  <a href="https://github.com/laxmijangra493-lgtm">
     <img src="https://github-readme-stats.allthethings.ch/api?username=laxmijangra493-lgtm&show_icons=true&theme=dark&hide_border=true" alt="laxmijangra493-lgtm's GitHub Stats" height="180" style="margin-right: 10px;" />
   </a>
 
