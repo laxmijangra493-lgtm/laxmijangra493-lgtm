@@ -87,7 +87,7 @@
 <hr>
 
 <p align="center">
-  <a href="mailto:laxmijangra493@gmail.com" target="_blank">
+  <a href="mailto:code.bhavesh493@gmail.com" target="_blank">
     <img src="https://img.icons8.com/doodle/48/000000/google-logo.png" alt="Gmail" width="40" height="40" style="margin: 0 10px;">
   </a>
   <a href="https://instagram.com/bhaveshkumar_56" target="_blank">
